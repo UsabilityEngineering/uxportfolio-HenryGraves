@@ -8,7 +8,7 @@
 </div>
 
 <br />
-<p style="margin-left: 20">
+<p style="margin-left: 200px; margin-right: 200px">
 &nbsp;&nbsp;&nbsp;&nbsp; Hello! My name is Henry Graves, I am a Computer Science major at CSU Chico.
 This is my UX portfolio for CSCI 431 Usability Engineering.
 I am fairly interested in this class as coding software is already something I can do, however, design
