@@ -1,13 +1,16 @@
 # UX Portfolio
-<img 
-  height="200" 
-  width="150" 
-  align="center"
-  src="./assets/pfp.JPG" />
+<div align="center">
+  <img 
+    height="200" 
+    width="150" 
+    src="./assets/pfp.JPG" 
+  />
+</div>
+
 <br />
 
-<t />Hello! My name is Henry Graves, I am a Computer Science major at CSU Chico.
-  This is my UX portfolio for CSCI 431 Usability Engineering.
+Hello! My name is Henry Graves, I am a Computer Science major at CSU Chico.
+This is my UX portfolio for CSCI 431 Usability Engineering.
 
 ## UX Team Project
 
