@@ -1,13 +1,8 @@
 # UX Portfolio
-<style>
-  img {
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
 <img 
   height="200" 
   width="150" 
+  align="center"
   src="./assets/pfp.JPG" />
 <br />
 
