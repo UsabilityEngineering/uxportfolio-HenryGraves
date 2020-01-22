@@ -1,5 +1,5 @@
 # UX Portfolio
-<img height="200" width="150" src="./assets/pfp.JPG"></img>
+<center><img height="200" width="150" src="./assets/pfp.JPG" /></center>
 <br />
 
 <t />Hello! My name is Henry Graves, I am a Computer Science major at CSU Chico.
