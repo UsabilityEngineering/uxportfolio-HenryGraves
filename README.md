@@ -4,6 +4,7 @@
     height="200" 
     width="150" 
     src="./assets/pfp.JPG" 
+    alt="My portrait profile picture"
   />
 </div>
 <!-- Line breaks hahaha! -->
