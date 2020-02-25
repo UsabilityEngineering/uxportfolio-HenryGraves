@@ -55,8 +55,8 @@ are currently in on the left hand side of the screen. These servers are idicated
 <!-- insert image of a text channel chat -->
 <div align="center">
   <img 
-    height="200" 
-    width="150" 
+    height="400" 
+    width="250" 
     src="./assets/textChat.png" 
     alt="Some chats from the announcements chat channel"
   />
