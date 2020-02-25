@@ -46,7 +46,7 @@ are currently in on the left hand side of the screen. These servers are idicated
 <div align="center">
   <img 
     height="450" 
-    width="200" 
+    width="150" 
     src="./assets/text_voice_channels.png" 
     alt="text and voice channels of a server"
   />
