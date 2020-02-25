@@ -26,7 +26,9 @@
 <b><h3> The Discord User's Experience </h3></b>
 <h4>By Henry Graves | 2/25/2020</h4>
 <p style="margin-left: 100px; margin-right: 100px;">
-&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp; Discord above all else, is a communication app. Many users of the app are game focused, however, it's use cases stretch from games to school classes to professional project collaboration. In this entry I will describe my experience using Discord, the goals I had, my interactions with the app, as well as what the outcomes were. <br />
+  
+  lorum ipsom
 
 </p>
 
