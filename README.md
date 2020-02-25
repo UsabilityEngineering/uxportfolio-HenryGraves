@@ -23,3 +23,5 @@
 
 ## UX Journal
 
+<b><h3> Journal Entry 1 </h3></b>
+
