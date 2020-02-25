@@ -66,7 +66,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <div align="center">
   <img 
     height="200" 
-    width="150" 
+    width="200" 
     src="./assets/usersInVoiceChannel.png" 
     alt="users hanging out in a voice chat"
   />
