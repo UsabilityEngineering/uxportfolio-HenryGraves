@@ -35,7 +35,7 @@ are currently in on the left hand side of the screen. These servers are idicated
 
 <!-- insert image of server list -->
 
-&nbsp;&nbsp;&nbsp;&nbsp; The second most left-hand column is the current server's text and voice channels depicted either with a pound sign for text, or a speaker icon for voice. This is an excelent example of natural mapping as in todays world we associate a pound sign with some form of text, usually in the form of a hashtag on social media and ofcourse a speaker symbol indicates that you're going to hear something, particularly voices in this context.
+&nbsp;&nbsp;&nbsp;&nbsp; The second most left-hand column is the current server's text and voice channels depicted either with a pound sign for text, or a speaker icon for voice. This is an excelent example of <b>natural mapping</b> as in todays world we associate a pound sign with some form of text, usually in the form of a hashtag on social media and ofcourse a speaker symbol indicates that you're going to hear something, particularly voices in this context.
 <!-- insert image of text/voice channels -->
 
 &nbsp;&nbsp;&nbsp;&nbsp; From here, a user can click on any text channel to see the chat of that channel. The chat appears in the center of the screen and has the most screen real estate which is ideal considering this is where a user will spend most of their time with their eyes. 
@@ -44,7 +44,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <!-- insert an image of voice users -->
 &nbsp;&nbsp;&nbsp;&nbsp; Finally, on the far right-hand side of the app will be a list of server members showing the user all other users that are currently in a server.
 <!-- insert an image of user list -->
-
+&nbsp;&nbsp;&nbsp;&nbsp; As stated previously I use discord for many things, one of which is keeping up with Chico State's Cybersecurity club Usr0. At a glance I can see if there have been any new announcements for the club by looking at the text chat channel #announcements. If this channel title is highlighted, it means there has been a new message posted to the chat. I can also see which of my friends from the club is online by looking to the right hand side and viewing the members list, if they have a green icon next to their profile picture, I know they are online.  
 
 
 </p>
