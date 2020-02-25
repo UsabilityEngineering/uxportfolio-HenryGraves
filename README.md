@@ -35,7 +35,7 @@ are currently in on the left hand side of the screen. These servers are idicated
 <!-- insert image of server list -->
 <div align="center">
   <img 
-    height="200" 
+    height="300" 
     width="150" 
     src="./assets/discordScreenShot.png" 
     alt="Discord screenshot, server list is on the left hand side"
@@ -45,7 +45,7 @@ are currently in on the left hand side of the screen. These servers are idicated
 <!-- insert image of text/voice channels -->
 <div align="center">
   <img 
-    height="200" 
+    height="300" 
     width="150" 
     src="./assets/text_voice_channels.png" 
     alt="text and voice channels of a server"
