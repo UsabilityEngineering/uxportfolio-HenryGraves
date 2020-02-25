@@ -75,7 +75,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <!-- insert an image of user list -->
 <div align="center">
   <img 
-    height="200" 
+    height="300" 
     width="150" 
     src="./assets/userList.png" 
     alt="List of online users from a server"
