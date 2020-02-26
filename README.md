@@ -23,7 +23,7 @@
 
 ## UX Journal
 
-<b><h3> The Discord User's Experience </h3></b>
+<h3> The Discord User's Experience </h3>
 <h4>By Henry Graves | 2/25/2020</h4>
 
 <p style="margin-left: 100px; margin-right: 100px;">
