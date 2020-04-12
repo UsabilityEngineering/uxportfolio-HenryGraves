@@ -23,7 +23,7 @@
 
 ## UX Journal
 
-<h3> The Discord User's Experience </h3>
+<h3> The Discord User's Experience | Entry 1</h3>
 <h4>By Henry Graves | 2/25/2020</h4>
 
 <p style="margin-left: 100px; margin-right: 100px;">
@@ -96,3 +96,11 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 &nbsp;&nbsp;&nbsp;&nbsp; As stated previously I use discord for many things, one of which is keeping up with Chico State's Cybersecurity club Usr0. At a glance I can see if there have been any new announcements for the club by looking at the text chat channel #announcements. If this channel title is highlighted, it means there has been a new message posted to the chat. I can also see which of my friends from the club is online by looking to the right hand side and viewing the members list, if they have a green icon next to their profile picture, I know they are online. In all honesty one of the only things I would change about the design layout is the ability to swap certain sections of the UI. For example, I'd sometimes like to be able to have the online users show up on the left hand side of the screen and all of the chat and voice channels show up on the right side of the screen, effectively just swapping the two.
 </p>
 
+<br />
+<br />
+<h3>Valorant Beta UI | Entry 2</h3>
+<h4>By Henry Graves | 4/12/2020</h4>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; Over the last few days, I've had the pleasure of being able to beta test a new first person shooter (FPS) game called Valorant made by Riot Games. Part of the testing involved is of course gameplay but also the games UI. The game strives on a very minimalistic UI with sharp angles and a transparent back drop.
+  
+</p>
