@@ -104,8 +104,8 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 &nbsp;&nbsp;&nbsp;&nbsp; Over the last few days, I've had the pleasure of being able to beta test a new first person shooter (FPS) game called Valorant made by Riot Games. Part of the testing involved is of course gameplay but also the games UI. The game strives on a very minimalistic UI with sharp angles and a transparent back drop.
 <div align="center">
   <img 
-    height="600" 
-    width="350" 
+    height="350" 
+    width="600" 
     src="./assets/gameUI.png" 
     alt="Discord screenshot, server list is on the left hand side"
   />
