@@ -118,7 +118,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
   <img 
     height="350" 
     width="600" 
-    src="./assets/gameUI.png" 
+    src="./assets/MainValorant.png" 
     alt="Discord screenshot, server list is on the left hand side"
   />
 </div>
