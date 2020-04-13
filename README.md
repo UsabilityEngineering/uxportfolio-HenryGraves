@@ -122,6 +122,14 @@ If a user decides to enter a voice channel, this will be indicated by showing th
     alt="Discord screenshot, server list is on the left hand side"
   />
 </div>
+<div align="center">
+  <img 
+    height="50" 
+    width="50" 
+    src="./assets/badIcon.png" 
+    alt="Discord screenshot, server list is on the left hand side"
+  />
+</div>
 <p style="margin-left: 100px; margin-right: 100px;">
-&nbsp;&nbsp;&nbsp;&nbsp; This is one huge critisism of the UI for me, there needs to be clear icons that intuitively dictates exactly what the action will do when the user clicks on them. As shown in the screen shot above, that icon has horrible natural mapping to indicate it's purpose.
+&nbsp;&nbsp;&nbsp;&nbsp; This is one huge critisism of the UI for me, there needs to be clear icons that intuitively dictates exactly what the action will do when the user clicks on them. As shown in the screen shot above, this icon has indicates it's purpose very poorly.
 </p>
