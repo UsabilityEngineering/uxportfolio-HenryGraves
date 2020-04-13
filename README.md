@@ -119,15 +119,15 @@ If a user decides to enter a voice channel, this will be indicated by showing th
     height="350" 
     width="600" 
     src="./assets/MainValorant.png" 
-    alt="Discord screenshot, server list is on the left hand side"
+    alt="Main valorant UI"
   />
 </div>
 <div align="center">
   <img 
     height="100" 
-    width="200" 
+    width="150"
     src="./assets/badIcon.png" 
-    alt="Discord screenshot, server list is on the left hand side"
+    alt="Bad Icon"
   />
 </div>
 <p style="margin-left: 100px; margin-right: 100px;">
