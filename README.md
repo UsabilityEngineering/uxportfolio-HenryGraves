@@ -124,8 +124,8 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 </div>
 <div align="center">
   <img 
-    height="50" 
-    width="50" 
+    height="100" 
+    width="200" 
     src="./assets/badIcon.png" 
     alt="Discord screenshot, server list is on the left hand side"
   />
