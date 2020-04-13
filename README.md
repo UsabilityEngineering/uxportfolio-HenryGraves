@@ -102,5 +102,11 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <h4>By Henry Graves | 4/12/2020</h4>
 <p style="margin-left: 100px; margin-right: 100px;">
 &nbsp;&nbsp;&nbsp;&nbsp; Over the last few days, I've had the pleasure of being able to beta test a new first person shooter (FPS) game called Valorant made by Riot Games. Part of the testing involved is of course gameplay but also the games UI. The game strives on a very minimalistic UI with sharp angles and a transparent back drop.
-  
+<img src="">
+</p>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; However, though the UI looks very nice, the positions of certain elements and the icons used to represent common actions like logout or quit have been a bit clouded. Upon entering the game the main menu navigations happen via a top navbar for each menu. You can look at characters unlocked via the collection tab or start a game by selecting the play tab. After my first game I went to log out of the game but struggled to find a way to exit the game. To my surprise there was a very small icon in the top left of the screen that had no indication of a side pop out menu, nor that it would exit the game. Upon hovering over the icon it animated slightly, indicating I could click it. This opens the menu where one can log out of their account and or quit to desktop.
+</p>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; This is one huge critisism of the UI for me, there needs to be clear icons that intuitively dictates exactly what the action will do when the user clicks on them  
 </p>
