@@ -133,3 +133,42 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <p style="margin-left: 100px; margin-right: 100px;">
 &nbsp;&nbsp;&nbsp;&nbsp; This is one huge critisism of the UI for me, there needs to be clear icons that intuitively dictates exactly what the action will do when the user clicks on them. As shown in the screen shot above, this icon has indicates it's purpose very poorly.
 </p>
+
+<br />
+<br />
+<h3>Youtube's UI and the Consumer Experience | Entry 3</h3>
+<h4>By Henry Graves | 5/10/2020</h4>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; Youtube has been a platform for sharing videos between others for many many years now, which has allowed for it's design to change and improve vastly over time. Though it has changed a lot, looking back at the old Youtube one can see where usability design principles were still very much in place.
+</p>
+<div align="center">
+  <img 
+    height="450" 
+    width="600" 
+    src="./asssets/youtube_in_the_beginning.png" 
+    alt="early youtube layout"
+  />
+</div>
+</p>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; In this screenshot, it's clear that the design of the page adhered to many traditional design concepts such as placing overarching navigation across the top of the screen as well as account details such as logging in to the site in the top right corner allowing for the website to be easily <b>learnable</b> since most other pages and webapps also behaved this way.
+</p>
+<div align="center">
+  <img 
+    height="" 
+    width="" 
+    src="" 
+    alt=""
+  />
+</div>
+<div align="center">
+  <img 
+    height="" 
+    width=""
+    src="" 
+    alt=""
+  />
+</div>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
