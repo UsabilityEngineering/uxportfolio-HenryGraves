@@ -157,7 +157,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
   <img 
     height="450" 
     width="700" 
-    src="youtube_now.jpg" 
+    src="./assets/youtube_now.jpg" 
     alt="current youtube layout"
   />
 </div>
