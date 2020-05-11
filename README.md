@@ -166,10 +166,10 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 </p>
 <div align="center">
   <img 
-    height="" 
-    width=""
-    src="" 
-    alt=""
+    height="100" 
+    width="300"
+    src="./assets/youtube_dislikebox_issue.png" 
+    alt="The youtube dislike hitbox"
   />
 </div>
 <p style="margin-left: 100px; margin-right: 100px;">
