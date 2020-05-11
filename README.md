@@ -144,7 +144,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 <div align="center">
   <img 
     height="450" 
-    width="600" 
+    width="650" 
     src="./assets/youtube_in_the_beginning.png" 
     alt="early youtube layout"
   />
@@ -155,12 +155,15 @@ If a user decides to enter a voice channel, this will be indicated by showing th
 </p>
 <div align="center">
   <img 
-    height="" 
-    width="" 
-    src="" 
-    alt=""
+    height="450" 
+    width="700" 
+    src="youtube_now.jpg" 
+    alt="current youtube layout"
   />
 </div>
+<p style="margin-left: 100px; margin-right: 100px;">
+&nbsp;&nbsp;&nbsp;&nbsp; Today's Youtube still follows many of the same guidlines it always has, but now in a cleaner more modern approach. Navigation has been put into a drawer on the left hand side of the page indicated by a familiar hamburger icon, account management still remains in the top right allowing for all the main content for a consumer to be placed in the center of the screen. With the use of the collapsable drawer and account management now being placed under a drop down menu when a user's profile picture is clicked on, the main video content can be displayed in a large way with a lot of room to work with making the view very appealing and <b>satisfying</b> for the user. 
+</p>
 <div align="center">
   <img 
     height="" 
