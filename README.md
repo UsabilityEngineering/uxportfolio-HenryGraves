@@ -145,7 +145,7 @@ If a user decides to enter a voice channel, this will be indicated by showing th
   <img 
     height="450" 
     width="600" 
-    src="./asssets/youtube_in_the_beginning.png" 
+    src="./assets/youtube_in_the_beginning.png" 
     alt="early youtube layout"
   />
 </div>
